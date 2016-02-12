@@ -10,7 +10,7 @@
 Math m = new Math();
 %>
 
-
+<font color="blue">
 <%="5 + 9 = " + m.add(5, 9)%>
 <br>
 <%="8 - 2 = " + m.sub(8, 2)%>
